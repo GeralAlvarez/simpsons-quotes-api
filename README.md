@@ -15,3 +15,7 @@ Este proyecto es una aplicación web que muestra citas de personajes de "Los Sim
 - Permite buscar citas de un personaje específico.
 - Efecto hover para las tarjetas de las citas.
 - Diseño responsivo.
+
+## Link de la página
+
+https://geralalvarez.github.io/simpsons-quotes-api/
